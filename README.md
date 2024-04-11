@@ -8,4 +8,4 @@ How to execute:
 3)Use the "Go Live" feature (install the "Live Server" extension if you haven't already.)
 
 # Display
-![Uploading image.png…]()
+![Loading...](display.png)
