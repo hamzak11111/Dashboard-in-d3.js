@@ -6,3 +6,6 @@ How to execute:
 1)Open Visual Studio Code
 2)Open this Project
 3)Use the "Go Live" feature (install the "Live Server" extension if you haven't already.)
+
+# Display
+![Uploading image.png…]()
